@@ -6,7 +6,7 @@ tereconozco
 Digit recognition with OpenCV.
 Based on Machine Learning.
 
-
+Code from [Simple Digit Recognition OCR in OpenCV-Python (StackOverflow)](http://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python)
 
 # Training
 
